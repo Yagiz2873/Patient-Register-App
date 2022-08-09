@@ -1,0 +1,44 @@
+{
+  "patients": [
+    {
+      "age": "34",
+      "disease": "Obese",
+      "gender": "Female",
+      "height": "165",
+      "imgUrl": "https://randomuser.me/api/portraits/women/60.jpg",
+      "nameSurname": "Rubye Lotus",
+      "weight": "50",
+      "id": 1
+    },
+    {
+      "age": "30",
+      "disease": "Obese",
+      "gender": "Male",
+      "height": "180",
+      "imgUrl": "https://randomuser.me/api/portraits/men/64.jpg",
+      "nameSurname": "Clifton Angel",
+      "weight": "90",
+      "id": 2
+    },
+    {
+      "age": "40",
+      "disease": "Obese",
+      "gender": "Male",
+      "height": "180",
+      "imgUrl": "https://randomuser.me/api/portraits/men/5.jpg",
+      "nameSurname": "Franklyn Devon",
+      "weight": "100",
+      "id": 3
+    },
+    {
+      "age": "40",
+      "disease": "Diabetes",
+      "gender": "Female",
+      "height": "160",
+      "imgUrl": "https://randomuser.me/api/portraits/women/23.jpg",
+      "nameSurname": "Gytha Cindra",
+      "weight": "55",
+      "id": 4
+    }
+  ]
+}

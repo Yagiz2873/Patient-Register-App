@@ -1,0 +1,33 @@
+:root{
+    background-color: black; 
+    --bgColor:white;
+}
+.login{ 
+    background-color: black; 
+} 
+.login-main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20vh;
+    border: 5px black;  
+    border-radius: 10%;   
+}
+.inputAnimation{
+    border-radius: 0%;
+    text-transform: lowercase;
+}
+.inputAnimation:hover{
+    background-color: whitesmoke; 
+    transition: all 2s ease; 
+}
+.about-info{
+    text-align: justify;
+}
+.aboutBg{
+background: #ECF3F7;
+background: -webkit-linear-gradient(right, #ECF3F7, #F4EFF7);
+background: -moz-linear-gradient(right, #ECF3F7, #F4EFF7); 
+background: linear-gradient(to left, #ECF3F7, #F4EFF7); 
+} 
